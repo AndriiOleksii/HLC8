@@ -1,0 +1,1 @@
+CREATE INDEX hashtype_index ON UsersHASHIndex (dob) USING HASH;

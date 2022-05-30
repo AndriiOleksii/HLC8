@@ -1,0 +1,1 @@
+SELECT * FROM UsersBTREEIndex Where dob like '%-01-30'

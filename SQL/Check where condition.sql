@@ -1,0 +1,1 @@
+SELECT * FROM UsersNoIndex Where dob < '1970-11-17' AND dob > '1970-11-09'

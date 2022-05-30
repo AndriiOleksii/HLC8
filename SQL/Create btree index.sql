@@ -1,0 +1,1 @@
+CREATE INDEX btree_index USING BTREE ON UsersBTREEIndex (dob);

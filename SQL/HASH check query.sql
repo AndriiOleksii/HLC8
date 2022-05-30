@@ -1,0 +1,1 @@
+SELECT * FROM UsersHASHIndex Where dob = '1970-10-23'

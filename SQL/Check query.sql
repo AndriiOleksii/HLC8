@@ -1,0 +1,1 @@
+SELECT * FROM UsersNoIndex Where dob = '1971-12-23'
